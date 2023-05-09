@@ -1,0 +1,17 @@
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\NelPoliceUI.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\NelPoliceUI.pdb
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Assembly-CSharp.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Rocket.API.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Rocket.Core.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Rocket.Unturned.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\SDG.NetTransport.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Steamworks.NET.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\Uconomy.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\bin\Debug\UnityEngine.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\obj\Debug\NelPoliceUI.csproj.AssemblyReference.cache
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\obj\Debug\NelPoliceUI.csproj.CoreCompileInputs.cache
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\obj\Debug\NelPoliceUI.csproj.CopyComplete
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\obj\Debug\NelPoliceUI.dll
+C:\Users\landr\source\repos\NelPoliceUI\NelPoliceUI\obj\Debug\NelPoliceUI.pdb
